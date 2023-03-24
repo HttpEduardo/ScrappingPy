@@ -1,7 +1,0 @@
-[
-  "aws-sam-cli",
-  "balena-cli",
-  "faust",
-  "lima",
-  "qemu"
-]
