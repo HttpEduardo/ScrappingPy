@@ -1,16 +1,6 @@
-# Homebrew Core
+# Web-Scraping
+### BoingBoing
+The posts fetched are filtered based on tags ['facebook', 'social media'] (parameterized). There are a total of 631 posts <br>
+and 10299 comments associated with it.
 
-Core formulae for the Homebrew package manager.
-
- [Homebrew/discussions (forum)](https://github.com/orgs/Homebrew/discussions)
-
-## How do I install these formulae?
-
-Just `brew install <formula>`. This is the default tap for Homebrew and is installed by default.
-
-## More Documentation, Troubleshooting, Contributing, Security, Community, Donations, License and Sponsors
-
-See these sections in [Homebrew/brew's README](https://github.com/Homebrew/brew#homebrew).
-# Core-
-# Python-Scrapping
 # ScrappingPy
