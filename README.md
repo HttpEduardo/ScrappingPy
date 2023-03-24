@@ -1,6 +1,5 @@
-# Web-Scraping
-### BoingBoing
-The posts fetched are filtered based on tags ['facebook', 'social media'] (parameterized). There are a total of 631 posts <br>
-and 10299 comments associated with it.
+## Web-Scraping
 
-# ScrappingPy
+As postagens recuperadas são filtradas com base nas tags [‘facebook’, ‘social media’] (parametrizadas). Há um total de 631 postagens e 10299 comentários associados a elas.
+
+ScrappingPy
